@@ -1,0 +1,21 @@
+# GitHub Pages Configuration
+title: معرض أعمال أحمد آل محمد
+description: مجموعة مشاريعي وإنجازاتي التقنية
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
